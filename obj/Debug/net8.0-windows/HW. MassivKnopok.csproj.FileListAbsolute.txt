@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW._MassivKnopok.Form1.resources
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\bin\Debug\net8.0-windows\HW. MassivKnopok.exe
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\bin\Debug\net8.0-windows\HW. MassivKnopok.deps.json
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\bin\Debug\net8.0-windows\HW. MassivKnopok.runtimeconfig.json
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\bin\Debug\net8.0-windows\HW. MassivKnopok.dll
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\bin\Debug\net8.0-windows\HW. MassivKnopok.pdb
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.dll
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\refint\HW. MassivKnopok.dll
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.pdb
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\HW. MassivKnopok.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW. MassivKnopok\HW. MassivKnopok\obj\Debug\net8.0-windows\ref\HW. MassivKnopok.dll
